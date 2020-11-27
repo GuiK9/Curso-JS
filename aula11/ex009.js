@@ -1,7 +1,7 @@
 var pais = 'EUA'
 console.log(`vivendo em ${pais}`)
 if (pais != 'brasil' ){
-    console.log ('mano tu e baiano?')
+    console.log ('Voê é estrangeiro')
 }else {
-    console.log('mano ctz tu n e baiano')
+    console.log('Você é brasileiro')
 }
